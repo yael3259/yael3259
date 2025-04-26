@@ -1,6 +1,5 @@
-# 🎉 Welcome to My GitHub Repository! 🎉
-
-👋 Hey there! I'm Yael Ram, a passionate developer who's constantly learning, creating, and exploring new technologies. Welcome to my corner of GitHub! 
+[# 🎉 Welcome to My GitHub Repository! 🎉
+](https://readme-typing-svg.demolab.com/demo/?color=00DCBD&lines=Hey!+Welcome+to+my+development+space%F0%9F%91%8B%F0%9F%8F%BC)
 
 ## 🚀 About Me
 - 🌍 Based in [Your Location]
