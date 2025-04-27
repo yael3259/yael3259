@@ -1,6 +1,6 @@
 <h1 align="center">Yael Ram</h1>
 
-<p align="center">Fullstack developer</p><br><br>
+<p align="center">Fullstack developer</p><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70063&width=435&lines=Hey!+Welcome+to+my+development+space)](https://git.io/typing-svg)
 
