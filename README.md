@@ -1,30 +1,37 @@
-[# 🎉 Welcome to My GitHub Repository! 🎉
-](https://readme-typing-svg.demolab.com/demo/?color=00DCBD&lines=Hey!+Welcome+to+my+development+space%F0%9F%91%8B%F0%9F%8F%BC)
+<h1 align="center">Yael Ram</h1>
 
-## 🚀 About Me
-- 🌍 Based in [Your Location]
-- 💻 Currently working on full-stack development and diving deep into React & Node.js
-- 📚 Currently learning Spanish and Arabic (always up for a challenge! 😉)
-- 🔨 My latest project is a [brief project description] - feel free to check it out!
+<p align="center">Fullstack developer</p><br><br>
 
-## 🛠️ Technologies I'm Exploring
-- **Languages**: JavaScript, Python, Java, HTML, CSS
-- **Frameworks**: React, Node.js, Express
-- **Databases**: MongoDB, SQL
-- **Tools**: Git, GitHub, VS Code, Docker
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70063&width=435&lines=Hey!+Welcome+to+my+development+space)](https://git.io/typing-svg)
 
-## 📂 Projects
-Here are some of the cool projects I've been working on:
+## About Me
 
-## 💬 Get in Touch
-- **LinkedIn**: [LinkedIn Profile Link]
+I'm Yael, a Fullstack developer passionate about creating clean, efficient code.  
+I always strive to build user-friendly, impactful solutions.  
+I'm constantly learning and improving my skills to tackle new challenges.<br><br><br>
 
-## 🌱 Currently Learning
-- React Advanced Concepts
-- Backend Architecture with Node.js
-- Machine Learning (because why not?)
 
-## 🔧 How to Use This Repo
-1. Clone this repo to your local machine
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+## 🛠️ Technologies and Tools
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)<br><br><br>
+
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=Email&logoColor=white)](yael3259@gmail.com)
+
