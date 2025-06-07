@@ -32,6 +32,7 @@ Hi, I'm **Yael**, a Fullstack Developer with a passion for creating intuitive an
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
 ### Databases
