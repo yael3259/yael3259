@@ -1,51 +1,211 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=✨%20Yael%20Ram%20✨&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=✨%20Yael%20Ram%20✨&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70063&center=true&vcenter=true&width=700&lines=Fullstack+%26+Mobile+Software+Engineer;Turning+caffeine+%26+logic+into+clean+code;Co-Founder+%26+Tech+Lead+%40+Drivoosh;Pixel-perfect+UIs+%20%E2%80%A2+Robust+Architectures" alt="Typing SVG" />
+  <strong>Fullstack & Mobile Software Engineer</strong> | Creative Thinker | Code Artist
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70063&center=true&vcenter=true&width=650&lines=Building+scalable+cross-platform+architectures;Crafting+pixel-perfect+mobile+%26+web+interfaces;Turning+coffee+and+logic+into+clean+code" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yaelram" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:yael3259@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/yael3259">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-</br>
+</br></br>
 
-## 📍 System Profile
+## 📍 About Me
 
-```typescript
-type Status = 'Debugging' | 'Architecting' | 'Refactoring' | 'Drinking Coffee';
+Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafting intuitive, high-performance digital experiences. I specialize in building end-to-end architectures, sleek cross-platform applications, and pixel-perfect UIs that solve real-world problems.
 
-interface SoftwareEngineer {
-  name: string;
-  role: string;
-  location: string;
-  stack: Record<string, string[]>;
-  currentStatus: Status;
-  isBugsAllowed: boolean;
-}
+* 🚀 **Current Role:** Co-Founder & Technical Lead at **Drivoosh**
+* 🎓 **Education:** Practical Software Engineer Degree & Google Python Certified
+* 💡 **Core Philosophy:** Clean architecture, intuitive design, and scalable code.
 
-const yael: SoftwareEngineer = {
-  name: 'Yael Ram',
-  role: 'Fullstack & Mobile Software Engineer',
-  location: 'Israel 🇮🇱',
-  stack: {
-    languages: ['TypeScript', 'JavaScript', 'Python', 'Dart'],
-    frontendMobile: ['React Native', 'React', 'Expo', 'Flutter', 'HTML5/CSS3'],
-    backendDB: ['Node.js', 'Express.js', 'Flask', 'PostgreSQL', 'MongoDB']
-  },
-  currentStatus: 'Architecting high-scale platforms',
-  isBugsAllowed: false // strictly caught in staging
-};
+</br></br>
+
+## ⚡ Developer Diagnostics
+
+> ☕ **Coffee-to-Code Ratio:** 1 Espresso = 250 Lines of Clean TypeScript  
+> 🎯 **Production Status:** 0 Bugs (We strictly leave those in Staging)  
+> 🌙 **Theme Preference:** Dark Mode 100% (Light mode is a health hazard)  
+> ⌨️ **Favorite Shortcut:** `Ctrl + Z` and endless `git commit --amend`
+
+</br></br>
+
+## ⚙️ Tech Stack
+
+### 📱 Mobile & Frontend
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🖥️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & Environments
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
+
+</br></br>
+
+## 🚀 Featured Projects
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
+      <h3 align="center">🚗 Drivoosh</h3>
+      <p align="center"><b>Dual-App Marketplace for Driving Instruction</b></p>
+      <p>A full mobile platform connecting driving students and instructors with real-time scheduling, dynamic matching, and lesson tracking.</p>
+      <p align="center">
+        <code>React Native</code> • <code>Expo</code> • <code>Node.js</code> • <code>PostgreSQL</code>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
+      <h3 align="center">🎯 Vertix</h3>
+      <p align="center"><b>Social Goal-Tracking SaaS</b></p>
+      <p>A goal-tracking SaaS platform enabling teenagers to build habits, share progress, and motivate each other within a community feed.</p>
+      <p align="center">
+        <code>React</code> • <code>Node.js</code> • <code>Flask</code> • <code>MongoDB</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
+      <h3 align="center">🏋️ FitNet</h3>
+      <p align="center"><b>E-Commerce Fitness Store</b></p>
+      <p>An online fitness store featuring dynamic product management, seamless cart flow, and a custom CSS design built completely from scratch.</p>
+      <p align="center">
+        <code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>CSS3</code>
+      </p>
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=Jn49OQyhvmw" target="_blank">
+          <img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
+      <h3 align="center">🎨 Creative & 3D Art</h3>
+      <p align="center"><b>Blender Sculpting & Retro UI Design</b></p>
+      <p>Combining engineering precision with aesthetic creativity—3D asset sculpting in Blender and retro desktop UI experiments.</p>
+      <p align="center">
+        <code>Blender</code> • <code>UI/UX Design</code> • <code>Retro Styling</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</br></br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yael3259/yael3259/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yael3259/yael3259/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yael3259/yael3259/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+</br></br>
+
+## 📊 Analytics Dashboard
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="padding: 5px;">
+      <a href="https://github.com/yael3259" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=yael3259&show_icons=true&count_private=true&hide_border=true&title_color=F70063&icon_color=F70063&text_color=333&bg_color=FFFFFF,EEEEEE" height="175px"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 5px;">
+      <a href="https://github.com/yael3259" target="_blank">
+        <img src="https://streak-stats.demolab.com?user=yael3259&theme=default&hide_border=true&stroke=F70063&ring=F70063&fire=F70063&currStreakLabel=F70063&background=FFFFFF" height="175px"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 5px;">
+      <a href="https://github.com/yael3259" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yael3259&layout=donut&hide_border=true&langs_count=8&bg_color=FFFFFF" height="175px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="padding: 10px; border: 1px solid #F70063; border-radius: 10px; background-color: #FFF0F6; width: 150px; height: 180px; vertical-align: middle;">
+      <p style="margin: 0; font-weight: 600; color: #F70063; font-family: Arial, sans-serif;">Profile Views</p>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=yael3259.yael3259" alt="Visitor Badge" style="margin-top: 10px; max-width: 100%; height: auto;">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/yael3259" target="_blank">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yael3259&theme=tokyo-night&bg_color=FFFFFF&hide_border=true&line=F70063&point=ffffff&area=true" width="85%" alt="GitHub Activity Graph"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</br></br>
+
+## 💭 Daily Developer Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+</br></br>
+
+---
+
+<p align="center">
+  <b>Want to collaborate, ask a question, or discuss an exciting idea?</b>
+  </br></br>
+  <a href="https://www.linkedin.com/in/yaelram" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yael3259@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=100&section=footer" width="100%" />
+</p>
