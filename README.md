@@ -191,7 +191,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 <p align="center">
   <a href="https://github.com/yael3259" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yael3259&theme=github-compact&hide_border=true&color=F70063&line=F70063&point=ffffff&area=true" width="90%" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yael3259&bg_color=ffffff&color=F70063&line=F70063&point=ffffff&area=true&hide_border=true" width="90%" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
