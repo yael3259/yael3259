@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <a href="https://yaelramportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-F70063?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yaelram" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -36,6 +40,22 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 * 🚀 **Current Role:** Co-Founder & Technical Lead at **Drivoosh**
 * 🎓 **Education:** Practical Software Engineer Degree & Google Python Certified
 * 💡 **Core Philosophy:** Clean architecture, intuitive design, and scalable code.
+
+</br></br>
+
+## 🌐 Personal Portfolio
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 20px; border: 1px solid #E1E4E8; border-radius: 10px;">
+      <h3>✨ Explore My Live Interactive Portfolio</h3>
+      <p>Check out my latest projects, interactive demos, technical stack showcase, and personal creative work all in one place.</p>
+      <a href="https://yaelramportfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </br></br>
 
@@ -93,7 +113,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
     <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
       <h3 align="center">🚗 Drivoosh</h3>
       <p align="center"><b>Dual-App Marketplace for Driving Instruction</b></p>
-      <p>A full mobile platform connecting driving students and instructors with real-time scheduling, dynamic matching, and lesson tracking.</p>
+      <p>A full mobile platform connecting driving students and instructors. Currently developing the MVP in its final stages before launch.</p>
       <p align="center">
         <code>React Native</code> • <code>Expo</code> • <code>Node.js</code> • <code>PostgreSQL</code>
       </p>
@@ -104,6 +124,15 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
       <p>A goal-tracking SaaS platform enabling teenagers to build habits, share progress, and motivate each other within a community feed.</p>
       <p align="center">
         <code>React</code> • <code>Node.js</code> • <code>Flask</code> • <code>MongoDB</code>
+      </p>
+      <p align="center">
+        <a href="https://vertix-dev.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"/>
+        </a>
+        &nbsp;
+        <a href="https://www.youtube.com/watch?v=-vJlisNq_Fs" target="_blank">
+          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -117,7 +146,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
       </p>
       <p align="center">
         <a href="https://www.youtube.com/watch?v=Jn49OQyhvmw" target="_blank">
-          <img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
         </a>
       </p>
     </td>
@@ -131,18 +160,6 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
     </td>
   </tr>
 </table>
-
-</br></br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yael3259/yael3259/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yael3259/yael3259/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yael3259/yael3259/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
 
 </br></br>
 
@@ -197,6 +214,10 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 <p align="center">
   <b>Want to collaborate, ask a question, or discuss an exciting idea?</b>
   </br></br>
+  <a href="https://yaelramportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F70063?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yaelram" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
