@@ -33,22 +33,22 @@
 
 </br></br>
 
-## 📍 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Technologist.png" width="30"/> About Me
 
 Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafting intuitive, high-performance digital experiences. I specialize in building end-to-end architectures, sleek cross-platform applications, and pixel-perfect UIs that solve real-world problems.
 
-* 🚀 **Current Role:** Co-Founder & Technical Lead at **Drivoosh**
-* 🎓 **Education:** Practical Software Engineer Degree & Google Python Certified
-* 💡 **Core Philosophy:** Clean architecture, intuitive design, and scalable code.
+* **Current Role:** Co-Founder & Technical Lead at **Drivoosh**
+* **Education:** Practical Software Engineer Degree & Google Python Certified
+* **Core Philosophy:** Clean architecture, intuitive design, and scalable code.
 
 </br></br>
 
-## 🌐 Personal Portfolio
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30"/> Personal Portfolio
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 20px; border: 1px solid #E1E4E8; border-radius: 10px;">
-      <h3>✨ Explore My Live Interactive Portfolio</h3>
+      <h3>Explore My Live Interactive Portfolio</h3>
       <p>Check out my latest projects, interactive demos, technical stack showcase, and personal creative work all in one place.</p>
       <a href="https://yaelramportfolio.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
@@ -59,18 +59,18 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## ⚡ Developer Diagnostics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="30"/> Developer Diagnostics
 
-> ☕ **Coffee-to-Code Ratio:** 1 Espresso = 250 Lines of Clean TypeScript  
-> 🎯 **Production Status:** 0 Bugs (We strictly leave those in Staging)  
-> 🌙 **Theme Preference:** Dark Mode 100% (Light mode is a health hazard)  
-> ⌨️ **Favorite Shortcut:** `Ctrl + Z` and endless `git commit --amend`
+> **Coffee-to-Code Ratio:** 1 Espresso = 250 Lines of Clean TypeScript  
+> **Production Status:** 0 Bugs (We strictly leave those in Staging)  
+> **Theme Preference:** Dark Mode 100% (Light mode is a health hazard)  
+> **Favorite Shortcut:** `Ctrl + Z` and endless `git commit --amend`
 
 </br></br>
 
-## ⚙️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"/> Tech Stack
 
-### 📱 Mobile & Frontend
+### Mobile & Frontend
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -83,7 +83,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🖥️ Backend & Databases
+### Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -94,7 +94,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 </p>
 
-### 🛠️ Tools & Environments
+### Tools & Environments
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -106,12 +106,12 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"/> Featured Projects
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
-      <h3 align="center">🚗 Drivoosh</h3>
+      <h3 align="center">Drivoosh</h3>
       <p align="center"><b>Dual-App Marketplace for Driving Instruction</b></p>
       <p>A full mobile platform connecting driving students and instructors. Currently developing the MVP in its final stages before launch.</p>
       <p align="center">
@@ -119,7 +119,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
-      <h3 align="center">🎯 Vertix</h3>
+      <h3 align="center">Vertix</h3>
       <p align="center"><b>Social Goal-Tracking SaaS</b></p>
       <p>A goal-tracking SaaS platform enabling teenagers to build habits, share progress, and motivate each other within a community feed.</p>
       <p align="center">
@@ -138,7 +138,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
-      <h3 align="center">🏋️ FitNet</h3>
+      <h3 align="center">FitNet</h3>
       <p align="center"><b>E-Commerce Fitness Store</b></p>
       <p>An online fitness store featuring dynamic product management, seamless cart flow, and a custom CSS design built completely from scratch.</p>
       <p align="center">
@@ -151,7 +151,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px; border: 1px solid #E1E4E8; border-radius: 10px;">
-      <h3 align="center">🎨 Creative & 3D Art</h3>
+      <h3 align="center">Creative & 3D Art</h3>
       <p align="center"><b>Blender Sculpting & Retro UI Design</b></p>
       <p>Combining engineering precision with aesthetic creativity—3D asset sculpting in Blender and retro desktop UI experiments.</p>
       <p align="center">
@@ -163,7 +163,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## 📊 Analytics Dashboard
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Analytics Dashboard
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
@@ -191,7 +191,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## 💭 Daily Developer Inspiration
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Thought%20Balances/Thought%20Balloon.png" width="30"/> Daily Developer Inspiration
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
