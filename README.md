@@ -185,19 +185,15 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
   </tr>
 </table>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="padding: 10px; border: 1px solid #F70063; border-radius: 10px; background-color: #FFF0F6; width: 150px; height: 180px; vertical-align: middle;">
-      <p style="margin: 0; font-weight: 600; color: #F70063; font-family: Arial, sans-serif;">Profile Views</p>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=yael3259.yael3259" alt="Visitor Badge" style="margin-top: 10px; max-width: 100%; height: auto;">
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/yael3259" target="_blank">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yael3259&theme=tokyo-night&bg_color=FFFFFF&hide_border=true&line=F70063&point=ffffff&area=true" width="85%" alt="GitHub Activity Graph"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yael3259.yael3259&left_color=gray&right_color=F70063" alt="Visitor Badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yael3259" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yael3259&theme=github-compact&hide_border=true&color=F70063&line=F70063&point=ffffff&area=true" width="90%" alt="GitHub Activity Graph"/>
+  </a>
+</p>
 
 </br></br>
 
