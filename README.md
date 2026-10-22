@@ -33,7 +33,7 @@
 
 </br></br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Technologist.png" width="30"/> About Me
+## 👩‍💻 About Me
 
 Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafting intuitive, high-performance digital experiences. I specialize in building end-to-end architectures, sleek cross-platform applications, and pixel-perfect UIs that solve real-world problems.
 
@@ -43,7 +43,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30"/> Personal Portfolio
+## 🌐 Personal Portfolio
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -59,7 +59,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="30"/> Developer Diagnostics
+## ⚡ Developer Diagnostics
 
 > **Coffee-to-Code Ratio:** 1 Espresso = 250 Lines of Clean TypeScript  
 > **Production Status:** 0 Bugs (We strictly leave those in Staging)  
@@ -68,7 +68,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"/> Tech Stack
+## ⚙️ Tech Stack
 
 ### Mobile & Frontend
 <p>
@@ -106,7 +106,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"/> Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -163,7 +163,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Analytics Dashboard
+## 📊 Analytics Dashboard
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
@@ -191,7 +191,7 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
 
 </br></br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Thought%20Balances/Thought%20Balloon.png" width="30"/> Daily Developer Inspiration
+## 💭 Daily Developer Inspiration
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
