@@ -189,12 +189,6 @@ Hi, I'm **Yael**, a Fullstack & Mobile Software Engineer passionate about crafti
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yael3259.yael3259&left_color=gray&right_color=F70063" alt="Visitor Badge"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yael3259" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yael3259&bg_color=ffffff&color=F70063&line=F70063&point=ffffff&area=true&hide_border=true" width="90%" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
 </br></br>
 
 ## 💭 Daily Developer Inspiration
